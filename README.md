@@ -210,7 +210,7 @@ The dashboard will open in your default browser.
 
 **Siddhant Gupta**
 
-B.Tech – Electrical and Computer Engineering  
+B.Tech – Electrical and Computer Engineering (3rd Year)
 KIET Group of Institutions
 
 GitHub: [im-sidd-1](https://github.com/im-sidd-1)
